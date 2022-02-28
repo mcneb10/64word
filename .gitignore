@@ -1,0 +1,11 @@
+# Created with CBM prg Studio
+*.prg
+bak
+*.dbg
+*.dmp
+*.dup
+*.swp
+*.tmp
+*.cfg
+*.jar
+*.sym
